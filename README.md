@@ -20,7 +20,7 @@ A curious “croshie” rabbit embarks on a whimsical and out-of-this-world jour
 # Game Overview
 Game Name: Croshie to the Stars
 
-Genre: Endless running, Roguelike progression, Shooter
+Genre: Endless running, Roguelike progression, Shooter, Vertical Scrolling
 
 Target Platform: PC
 
